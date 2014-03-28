@@ -8,8 +8,10 @@ public class Test {
 	 * 
 	 * */
 	
-	public static void main(String[] args) {
-		
+	public static void main(String[] args)
+	 {
+		Learning lynxar=new lynxar;
+		lynxar.Print();
 		//Learning class obje oluştur
 		//print() metodunu çağırınız.
 	}
